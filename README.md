@@ -6,7 +6,7 @@ Quer investir mas não tem familiaridade com o mercado financeiro? Use esta plan
 
 Para começar sua simulação coloque o valor de seu salário (valor mensal) no campo correspondente da tabela dados salariais reais, em seguida selecione um valor no campo sugestão de investimento (esses valor representa a porcentagem do seu salário que será investida). Depois basta colocar a quntidades de anos que investirá no campo Quanto anos investir da tabela Investimentos mensais. por último selecione uma das 3 opções (conservador, moderado ou agressivo) no seu perfil de investidor.
 Com estes dados a planilha calculará automaticamente o valor de seu patrimonio com base na taxa de rendimento mesal e os dividendos (renda passiva) com base nos valores de rendimento da carteira.
-O retorno sobre o investimento é um índice que mostra a proporção entre seu patrimônio e o valor investido. se este índice tem valor 1,seu patrimônio é igual ao valor investido. se este índice tem valor igual a dois, seu patrimônio é o dobro do valor investido e assim por diante.
+O retorno sobre o investimento é um índice que mostra a proporção entre seu patrimônio e o valor investido. se este índice tem valor 1, seu patrimônio é igual ao valor investido. se este índice tem valor igual a dois, seu patrimônio é o dobro do valor investido e assim por diante.
 
 ## 🏘 Tipos de FII 🏢 
 
